@@ -1,0 +1,131 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "4_p6ZWXlxfWhcCrEt0cZ5",
+      "name": "red",
+      "value": "#e22c3c"
+    },
+    {
+      "id": "b-JoWNObDOzUbpU5m2rEA",
+      "name": "red-orange",
+      "value": "#e9404b"
+    },
+    {
+      "id": "5TVcMniiHSWujXFAyNtXp",
+      "name": "orange",
+      "value": "#ee6748"
+    },
+    {
+      "id": "iTsHX33myhXDMy8NXFqO1",
+      "name": "amber",
+      "value": "#fa9f50"
+    },
+    {
+      "id": "PkxZR6bsg8sIU0VpUiK0_",
+      "name": "yellow",
+      "value": "#ffd85e"
+    },
+    {
+      "id": "lb0are6hRsGTO5aGUlBjW",
+      "name": "lime",
+      "value": "#97e768"
+    },
+    {
+      "id": "rJVWRvy4MFbCQo5Q8rPhu",
+      "name": "mint",
+      "value": "#52eea3"
+    },
+    {
+      "id": "jI3ux_K-PlpAwOYAbhiwI",
+      "name": "cyan",
+      "value": "#51e1e9"
+    },
+    {
+      "id": "gYnNT_LX7zVQ7Q-xpDHxK",
+      "name": "light-blue",
+      "value": "#54b6f8"
+    },
+    {
+      "id": "GUfoIRyPOmaRUCo-vxCXm",
+      "name": "blue",
+      "value": "#437cf3"
+    },
+    {
+      "id": "CpRlwHVd-3BQxzZjDSgZM",
+      "name": "violet",
+      "value": "#9446f8"
+    },
+    {
+      "id": "nTXnQ-f72SAe_AMJoBBR7",
+      "name": "purple",
+      "value": "#c952ed"
+    },
+    {
+      "id": "n4pM7jKdPwNafDtjHmJqr",
+      "name": "magenta",
+      "value": "#e54f9b"
+    },
+    {
+      "id": "yPqoFyVzlny9ydhnfHhwb",
+      "name": "hot-red",
+      "value": "#e3365e"
+    },
+    {
+      "id": "Xf-j0KYVO0xcJ5qQgGqF8",
+      "name": "cool-gray",
+      "value": "#515768"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Content storage",
+      "color": "rJVWRvy4MFbCQo5Q8rPhu"
+    },
+    {
+      "path": "07 - Daily",
+      "color": "yPqoFyVzlny9ydhnfHhwb"
+    },
+    {
+      "path": "02 - Notes",
+      "color": "gYnNT_LX7zVQ7Q-xpDHxK"
+    },
+    {
+      "path": "03 - Books",
+      "color": "GUfoIRyPOmaRUCo-vxCXm"
+    },
+    {
+      "path": "05 - Plans",
+      "color": "nTXnQ-f72SAe_AMJoBBR7"
+    },
+    {
+      "path": "06 - Programming",
+      "color": "n4pM7jKdPwNafDtjHmJqr"
+    },
+    {
+      "path": "01 - Projects",
+      "color": "jI3ux_K-PlpAwOYAbhiwI"
+    },
+    {
+      "path": "99 - Meta",
+      "color": "Xf-j0KYVO0xcJ5qQgGqF8"
+    },
+    {
+      "path": "04 - Permament",
+      "color": "CpRlwHVd-3BQxzZjDSgZM"
+    },
+    {
+      "path": "00 - Content storage/00 - Math",
+      "color": "GUfoIRyPOmaRUCo-vxCXm"
+    },
+    {
+      "path": "00 - Content storage/02 - Psychology",
+      "color": "yPqoFyVzlny9ydhnfHhwb"
+    },
+    {
+      "path": "00 - Content storage/01 - Physics",
+      "color": "CpRlwHVd-3BQxzZjDSgZM"
+    }
+  ]
+}

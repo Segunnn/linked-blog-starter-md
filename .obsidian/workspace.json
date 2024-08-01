@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "c0054f51fd2872cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a69f0d441f2584d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e7391cd3f7fe38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd4d6b2ebb68edb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e919a53e44574b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fcabea52576e4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bd21ad55e483387",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c5abeabf16be071",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "63c2abf4fae1eb32",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa523da30ac3e201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6751cbcae5ab8fc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7be4c7604656d1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d4fe1ea4c0c5c17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7871f053e258c25c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "74c0e04cbc558172",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee173c229b31c45a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3bbb672c2f83d8fc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "29e7391cd3f7fe38",
+  "lastOpenFiles": [
+    "Mind/publish/get-project-id-account-id-and-token-vercel.md",
+    "Mind/publish/deploy-a-custom-linked-blog-starter.md",
+    "Mind/publish/connect-obsidian-vault-with-github.md",
+    "Mind/publish/accepted-markdown-metadata.md",
+    "Mind/README.md",
+    "06 - Programming/Git essentials.md",
+    "Mind/publish/attachments/vercel-project-id.png",
+    "Mind/publish/attachments/vercel-create-token.png",
+    "Mind/publish/attachments/vercel-account-id.png",
+    "Mind/publish/attachments/publish-dir-yml.png",
+    "Mind/publish/attachments/how-linked-blog-starter-works.png",
+    "Mind/publish/attachments/github-secrets-vercel.png",
+    "Mind/publish/attachments/fork-linked-blog-starter-md.png",
+    "Mind/publish/attachments/fn-website-demo.gif",
+    "Mind/publish/attachments/enable-actions-github.png",
+    "Mind/publish/attachments/disconnect-repo-vercel.png",
+    "Mind/publish/works-out-of-the-box-with-markdown-files.md",
+    "Mind/publish/update-publish-settings-github-actions.md",
+    "Mind/publish/statically-generated.md",
+    "Mind/publish/reinventing-the-wheel.md",
+    "Mind/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "Mind/publish/home.md",
+    "Mind/publish/linked-blog-starter-does-not-reinvent-wheel.md",
+    "Mind/publish/install-linked-blog-starter-locally.md",
+    "Mind/publish/how-linked-blog-starter-works.md",
+    "Mind/publish/attachments",
+    "Mind/publish",
+    "Mind",
+    "06 - Programming/Linux/Linux networks.md",
+    "06 - Programming/Computer Science/01 - ОС/user n kernel mode.md",
+    "06 - Programming/Cybersecurity/Essential knowledge.md",
+    "06 - Programming/Linux",
+    "00 - Content storage/Цитаты.md",
+    "06 - Programming/Computer Science/05 - C++/STL/Алгоритмы.md",
+    "06 - Programming/Computer Science/01 - ОС/context switching.md",
+    "06 - Programming/Computer Science/02 - Компьютерные Сети/DNS n HTTP(s) n FTP n SSH.md",
+    "00 - Content storage/99 - Games/Го.md",
+    "00 - Content storage/04 - Marketing/Scarcity bias (Страсть к дефецитному).md",
+    "00 - Content storage/Размышления, истинные потребности.md",
+    "00 - Content storage/04 - Marketing/Untitled",
+    "00 - Content storage/04 - Marketing",
+    "00 - Content storage/03 - Sociology",
+    "06 - Programming/Cybersecurity",
+    "06 - Programming/Computer Science/00 - Архитектура/Устройства ввода и вывода",
+    "06 - Programming/Computer Science/00 - Архитектура/Ассемблер",
+    "00 - Content storage/Игры/Игры.canvas"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Физика tag:#Астрофизика tag:#Астрономия  ",
+      "color": {
+        "a": 1,
+        "rgb": 12984308
+      }
+    },
+    {
+      "query": "tag:#Психология  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"06 - Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2077951
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.503070175438596,
+  "repelStrength": 10,
+  "linkStrength": 0.973245614035088,
+  "linkDistance": 277,
+  "scale": 1.1727356765266175,
+  "close": true
+}
