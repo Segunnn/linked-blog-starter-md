@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d0b0ad73578fba1e","type":"file","file":"00 - Content storage/99 - Games/Шахматы.md","x":-440,"y":-260,"width":400,"height":400},
+		{"id":"3ca5d089adbad883","type":"file","file":"00 - Content storage/99 - Games/Сёги.md","x":-220,"y":261,"width":400,"height":400},
+		{"id":"542debd90e598beb","type":"file","file":"00 - Content storage/99 - Games/Шашки.md","x":400,"y":-260,"width":400,"height":400},
+		{"id":"4659574c9c53542d","type":"file","file":"99 - Meta/attachments/chess.png","x":-840,"y":-260,"width":400,"height":400},
+		{"id":"d6aad5f0bcae8634","type":"file","file":"99 - Meta/attachments/checkers.jpeg","x":800,"y":-258,"width":400,"height":398},
+		{"id":"6973b6a11ae9db06","type":"file","file":"99 - Meta/attachments/shogi.jpeg","x":-579,"y":261,"width":359,"height":399},
+		{"id":"1b381c15052d9885","type":"file","file":"99 - Meta/attachments/xiangqi.png","x":-1400,"y":261,"width":364,"height":400},
+		{"id":"1b28a1475566b925","type":"file","file":"00 - Content storage/99 - Games/Сянци.md","x":-1036,"y":261,"width":400,"height":400},
+		{"id":"ab1b1f59361578b2","type":"file","file":"00 - Content storage/99 - Games/Го.md","x":320,"y":261,"width":400,"height":400},
+		{"id":"6e0847c8242db139","type":"file","file":"99 - Meta/attachments/go.jpeg","x":320,"y":661,"width":400,"height":266},
+		{"id":"ac5169b42540c71e","type":"file","file":"99 - Meta/attachments/backgammon.png","x":880,"y":666,"width":400,"height":261},
+		{"id":"83fce15bb95dc8c5","type":"file","file":"00 - Content storage/99 - Games/Нарды.md","x":880,"y":261,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"01916e7bb30b6750","fromNode":"d0b0ad73578fba1e","fromSide":"bottom","toNode":"1b28a1475566b925","toSide":"top"},
+		{"id":"5b9206ce5798a41d","fromNode":"d0b0ad73578fba1e","fromSide":"bottom","toNode":"3ca5d089adbad883","toSide":"top"},
+		{"id":"c24a909f651e0309","fromNode":"542debd90e598beb","fromSide":"bottom","toNode":"ab1b1f59361578b2","toSide":"top"},
+		{"id":"c666c49d9589575a","fromNode":"542debd90e598beb","fromSide":"bottom","toNode":"83fce15bb95dc8c5","toSide":"top"}
+	]
+}

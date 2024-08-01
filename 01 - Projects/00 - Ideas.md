@@ -1,0 +1,17 @@
+
+- DDOS-script (console UI)
+- .zip Cracker (UI)
+- Любой компилятор или интерпретатор на C++
+- Сайт на котором буду тестировать уязвимости
+- Трекер локации
+- Размножающийся вирус (Botnet)
+- WiFi экстрактор
+- NFC Cracker
+- Credit card validator (UI)
+- Chat AI
+- Blackjack TG Bot 
+- Змейка на C++
+- Блокнот со всеми механиками
+- Сайт - TODO лист
+- Копия savefromnet
+- Алгоритм хеширования
