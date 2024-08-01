@@ -11,8 +11,12 @@
             "id": "29e7391cd3f7fe38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Content storage/02 - Psychology/Манипуляции.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "right": {
     "id": "63c2abf4fae1eb32",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Content storage/02 - Psychology/Манипуляции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Content storage/02 - Psychology/Манипуляции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Content storage/02 - Psychology/Манипуляции.md"
+              }
             }
           },
           {
@@ -159,8 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -170,11 +176,22 @@
       "markdown-importer:Open format converter": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "29e7391cd3f7fe38",
   "lastOpenFiles": [
+    "00 - Content storage/02 - Psychology/Девиация.md",
+    "00 - Content storage/02 - Psychology/Манипуляции.md",
+    "00 - Content storage/02 - Psychology/Гало-эффект.md",
+    "00 - Content storage/03 - Sociology/Принцип Парето.md",
+    "00 - Content storage/04 - Marketing/Scarcity bias (Страсть к дефецитному).md",
+    "00 - Content storage/Моя философия.md",
+    "00 - Content storage/Hokusai Paintings.md",
+    "00 - Content storage/Цитаты.md",
+    "00 - Content storage/Размышления.md",
     "Mind/publish/get-project-id-account-id-and-token-vercel.md",
     "Mind/publish/deploy-a-custom-linked-blog-starter.md",
     "Mind/publish/connect-obsidian-vault-with-github.md",
@@ -205,15 +222,7 @@
     "Mind",
     "06 - Programming/Linux/Linux networks.md",
     "06 - Programming/Computer Science/01 - ОС/user n kernel mode.md",
-    "06 - Programming/Cybersecurity/Essential knowledge.md",
     "06 - Programming/Linux",
-    "00 - Content storage/Цитаты.md",
-    "06 - Programming/Computer Science/05 - C++/STL/Алгоритмы.md",
-    "06 - Programming/Computer Science/01 - ОС/context switching.md",
-    "06 - Programming/Computer Science/02 - Компьютерные Сети/DNS n HTTP(s) n FTP n SSH.md",
-    "00 - Content storage/99 - Games/Го.md",
-    "00 - Content storage/04 - Marketing/Scarcity bias (Страсть к дефецитному).md",
-    "00 - Content storage/Размышления, истинные потребности.md",
     "00 - Content storage/04 - Marketing/Untitled",
     "00 - Content storage/04 - Marketing",
     "00 - Content storage/03 - Sociology",
