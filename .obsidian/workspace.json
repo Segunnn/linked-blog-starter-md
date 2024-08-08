@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Content storage/02 - Psychology/Манипуляции.md",
+                "file": "03 - Books/! Человеческое, слишком человеческое.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Content storage/02 - Psychology/Манипуляции.md",
+                "file": "03 - Books/! Человеческое, слишком человеческое.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Content storage/02 - Psychology/Манипуляции.md",
+                "file": "03 - Books/! Человеческое, слишком человеческое.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Content storage/02 - Psychology/Манипуляции.md"
+                "file": "03 - Books/! Человеческое, слишком человеческое.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "29e7391cd3f7fe38",
   "lastOpenFiles": [
-    "00 - Content storage/02 - Psychology/Девиация.md",
     "00 - Content storage/02 - Psychology/Манипуляции.md",
+    "00 - Content storage/02 - Psychology/Девиация.md",
     "00 - Content storage/02 - Psychology/Гало-эффект.md",
     "00 - Content storage/03 - Sociology/Принцип Парето.md",
     "00 - Content storage/04 - Marketing/Scarcity bias (Страсть к дефецитному).md",
